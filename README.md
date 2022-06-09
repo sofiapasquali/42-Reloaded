@@ -1,2 +1,1 @@
-# 42-Reloaded 
-(succeeded with 100%)
+# 42-Reloaded (succeeded with 100%)
